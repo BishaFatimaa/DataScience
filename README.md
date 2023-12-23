@@ -1,5 +1,6 @@
 # AI Integration and Socio-economic Dynamics: A Global Analysis
 A exploratory data analysis on AI index for differenet countries and how it affects Socio Economic factors
+
 ## Accessing the Project
 
 To access and run this project locally, follow the steps below:
@@ -13,4 +14,4 @@ To access and run this project locally, follow the steps below:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/BishaFatimaa/DataScience
