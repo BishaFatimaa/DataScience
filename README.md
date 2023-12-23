@@ -1,5 +1,5 @@
 # AI Integration and Socio-economic Dynamics: A Global Analysis
-A exploratory data analysis on AI index for differenet countries and how it affects Socio Economic factors
+A exploratory data analysis on AI index for differenet countries and how it affects Socio Economic factors done with Python3 and Markdown from Jupyter notebook
 
 ## Accessing the Project
 
